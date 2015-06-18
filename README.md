@@ -4,7 +4,7 @@ In my opinion, this is not what you should write as your first program in Ruby, 
 puts "Hello world!"
 ```
 It should look more like this:
-```
+```ruby
 print "Snoopizzler: "
 user_input = gets.chomp;
  
